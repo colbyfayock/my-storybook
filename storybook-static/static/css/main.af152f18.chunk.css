@@ -1,0 +1,18 @@
+.button {
+  color: white;
+  font-weight: bold;
+  background-color: blueviolet;
+  border: none;
+  padding: .8em 1em;
+  border-radius: .2rem;
+}
+.header {
+  font-family: sans-serif;
+  font-size: 2.5em;
+  color: blueviolet;
+  border-bottom: solid 5px aqua;
+  padding-bottom: .2em;
+  box-shadow: 0 5px 0 blueviolet;
+}
+
+/*# sourceMappingURL=main.af152f18.chunk.css.map*/
