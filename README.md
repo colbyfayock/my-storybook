@@ -1,14 +1,15 @@
-# Storybook React Demo
+# Creating a Component Design System with Storybook & React
 
-Demo for tutorials that help you create your own Storybook system with React.
+Demo for tutorial [How to Use Storybook JS to Create a Component Design System in React](https://www.youtube.com/watch?v=VApXDsYO5Gg)
 
-Learn how to create your own with [How to use Storybook JS to create a component design system in React](https://www.youtube.com/watch?v=VApXDsYO5Gg)
+📝 Article: https://www.freecodecamp.org/news/what-is-storybook-and-how-can-i-use-it-to-create-a-component-libary-in-react/
 
-## Getting started locally
-* `yarn install`
-* `yarn start`
-* 🚀
+📺 YouTube: https://www.youtube.com/watch?v=VApXDsYO5Gg
 
 ## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
